@@ -3,7 +3,7 @@ Tarefa 1 - Unidade 4 - Capítulo 8 - Conversos A/D
 
 Este projeto utiliza um microcontrolador Raspberry Pi Pico para controlar LEDs RGB e exibir figuras em um display OLED SSD1306, com base nos movimentos de um joystick analógico.  
 
-# Componentes necessários  
+# Componentes necessários e suas ligações  
 • LED RGB, com os pinos conectados às GPIOs (11, 12 e 13).  
 • Botão do Joystick conectado à GPIO 22.  
 • Joystick conectado aos GPIOs 26 e 27.  
@@ -24,7 +24,7 @@ Este projeto utiliza um microcontrolador Raspberry Pi Pico para controlar LEDs R
 OBSERVAÇÃO: o valor central digital do joystick pode variar de placa para placa. Foi considerado uma diferença de 200 para mais ou para menos para ajustar a posição central para a placa utilizada no desenvolvimento deste projeto. Pode ser necessário um ajuste maior em outra placa.  
 
 # Link do vídeo  
-
+https://drive.google.com/file/d/1z-wnaLZ04bDEUOv6QHocCEj266sI36WB/view?usp=sharing  
 
 # Desenvolvedora
 Priscila Pereira Suzart de Carvalho
