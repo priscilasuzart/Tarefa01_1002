@@ -1,3 +1,4 @@
+//Definição das bibliotecas
 #include <stdio.h>
 #include <stdlib.h>
 #include "pico/stdlib.h"
@@ -8,6 +9,7 @@
 #include "lib/ssd1306.h"
 #include "lib/font.h"
 
+//Definição das variáveis
 #define I2C_PORT i2c1
 #define I2C_SDA 14
 #define I2C_SCL 15
